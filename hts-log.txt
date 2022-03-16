@@ -1,0 +1,89 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 16 Mar 2022 15:39:23 at http://www.tivodart.narod.ru +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://www.tivodart.narod.ru -O1 "C:\Users\epino\Downloads\ti" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:42:25	Warning: 	Retry after error -5 (Unable to get server's address: This is usually a temporary error during hostnam) at link www.pautina.net/images/pautina88.gif (from www.tivodart.narod.ru/)
+15:43:37	Warning: 	file not stored in cache due to bogus state (broken size, expected 610664 got 325040): www.tivodart.narod.ru/santasara.jpg
+15:43:40	Warning: 	file not stored in cache due to bogus state (broken size, expected 477463 got 359040): www.tivodart.narod.ru/naetyudah.jpg
+15:44:00	Warning: 	file not stored in cache due to bogus state (broken size, expected 601483 got 325040): www.tivodart.narod.ru/shimnik.jpg
+15:44:32	Warning: 	file not stored in cache due to bogus state (broken size, expected 937631 got 333200): www.tivodart.narod.ru/stella.jpg
+15:45:01	Warning: 	file not stored in cache due to bogus state (broken size, expected 479163 got 455600): www.tivodart.narod.ru/avtoprtret.jpg
+15:45:18	Warning: 	file not stored in cache due to bogus state (broken size, expected 737945 got 473280): www.tivodart.narod.ru/poedribu.jpg
+15:45:21	Warning: 	file not stored in cache due to bogus state (broken size, expected 877385 got 439280): www.tivodart.narod.ru/yabspas.jpg
+15:45:53	Warning: 	file not stored in cache due to bogus state (broken size, expected 619854 got 470560): www.tivodart.narod.ru/imperium.jpg
+15:46:29	Warning: 	file not stored in cache due to bogus state (broken size, expected 634715 got 424320): www.tivodart.narod.ru/arkan21.jpg
+15:46:37	Warning: 	file not stored in cache due to bogus state (broken size, expected 794045 got 573920): www.tivodart.narod.ru/impny.jpg
+15:46:43	Warning: 	file not stored in cache due to bogus state (broken size, expected 714303 got 466480): www.tivodart.narod.ru/meka.jpg
+15:47:06	Warning: 	file not stored in cache due to bogus state (broken size, expected 933419 got 425680): www.tivodart.narod.ru/odnavera.jpg
+15:47:40	Warning: 	file not stored in cache due to bogus state (broken size, expected 763840 got 357680): www.tivodart.narod.ru/sevveter.jpg
+15:47:42	Warning: 	file not stored in cache due to bogus state (broken size, expected 459773 got 425680): www.tivodart.narod.ru/upechey.jpg
+15:47:55	Warning: 	file not stored in cache due to bogus state (broken size, expected 848555 got 427040): www.tivodart.narod.ru/rasvet.jpg
+15:53:22	Warning: 	file not stored in cache due to bogus state (broken size, expected 774661 got 391680): www.tivodart.narod.ru/pantanas.jpg
+15:53:22	Warning: 	file not stored in cache due to bogus state (broken size, expected 810888 got 442000): www.tivodart.narod.ru/mleko.jpg
+15:53:22	Warning: 	file not stored in cache due to bogus state (broken size, expected 757227 got 424320): www.tivodart.narod.ru/konevskaya.jpg
+15:53:57	Warning: 	file not stored in cache due to bogus state (broken size, expected 677086 got 567120): www.tivodart.narod.ru/makar.jpg
+15:54:23	Warning: 	file not stored in cache due to bogus state (broken size, expected 1030440 got 391680): www.tivodart.narod.ru/rublev.jpg
+15:54:45	Warning: 	file not stored in cache due to bogus state (broken size, expected 651837 got 508640): www.tivodart.narod.ru/ksenia.jpg
+15:58:12	Warning: 	file not stored in cache due to bogus state (broken size, expected 746378 got 401120): www.tivodart.narod.ru/terezka.jpg
+15:58:23	Warning: 	file not stored in cache due to bogus state (broken size, expected 708639 got 424320): www.tivodart.narod.ru/hust.jpg
+15:58:40	Warning: 	file not stored in cache due to bogus state (broken size, expected 478138 got 435200): www.tivodart.narod.ru/sviattih.jpg
+15:59:22	Warning: 	file not stored in cache due to bogus state (broken size, expected 583493 got 440640): www.tivodart.narod.ru/litvechnatro.jpg
+15:59:46	Warning: 	file not stored in cache due to bogus state (broken size, expected 667076 got 486880): www.tivodart.narod.ru/stejka.jpg
+15:59:53	Warning: 	file not stored in cache due to bogus state (broken size, expected 641495 got 427040): www.tivodart.narod.ru/straji.jpg
+16:00:23	Warning: 	file not stored in cache due to bogus state (broken size, expected 753887 got 349520): www.tivodart.narod.ru/kutok.jpg
+16:00:51	Warning: 	file not stored in cache due to bogus state (broken size, expected 613250 got 471920): www.tivodart.narod.ru/vecherie.jpg
+16:01:01	Warning: 	file not stored in cache due to bogus state (broken size, expected 661218 got 437920): www.tivodart.narod.ru/dotik.jpg
+16:01:08	Warning: 	file not stored in cache due to bogus state (broken size, expected 782998 got 435200): www.tivodart.narod.ru/pokaleto.jpg
+16:02:15	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.pautina.net/images/pautina88.gif (from www.tivodart.narod.ru/)
+16:02:26	Error: 	"Not Found" (404) at link www.tivodart.narod.ru/.html (from www.tivodart.narod.ru/galleryukr.html)
+16:02:26	Error: 	"Not Found" (404) at link www.tivodart.narod.ru/pokaleto (from www.tivodart.narod.ru/gallery1.html)
+16:02:26	Warning: 	Retry after error -4 (Incorrect length (359040 Bytes, 477463 expected)) at link www.tivodart.narod.ru/naetyudah.jpg (from www.tivodart.narod.ru/naetyudah.html)
+16:02:27	Warning: 	Retry after error -4 (Incorrect length (325040 Bytes, 610664 expected)) at link www.tivodart.narod.ru/santasara.jpg (from www.tivodart.narod.ru/santasara.html)
+16:02:46	Warning: 	Retry after error -4 (Incorrect length (325040 Bytes, 601483 expected)) at link www.tivodart.narod.ru/shimnik.jpg (from www.tivodart.narod.ru/shimnik.html)
+16:03:07	Warning: 	file not stored in cache due to bogus state (broken size, expected 680220 got 326400): www.tivodart.narod.ru/morozranok.jpg
+16:03:07	Warning: 	Retry after error -4 (Incorrect length (333200 Bytes, 937631 expected)) at link www.tivodart.narod.ru/stella.jpg (from www.tivodart.narod.ru/stella.html)
+16:03:14	Warning: 	Retry after error -4 (Incorrect length (455600 Bytes, 479163 expected)) at link www.tivodart.narod.ru/avtoprtret.jpg (from www.tivodart.narod.ru/avtoprtret.html)
+16:03:19	Warning: 	Retry after error -4 (Incorrect length (473280 Bytes, 737945 expected)) at link www.tivodart.narod.ru/poedribu.jpg (from www.tivodart.narod.ru/poedribu.html)
+16:03:31	Warning: 	Retry after error -4 (Incorrect length (439280 Bytes, 877385 expected)) at link www.tivodart.narod.ru/yabspas.jpg (from www.tivodart.narod.ru/yabspas.html)
+16:03:47	Warning: 	file not stored in cache due to bogus state (broken size, expected 848974 got 550800): www.tivodart.narod.ru/yablunka.jpg
+16:03:47	Warning: 	Retry after error -4 (Incorrect length (470560 Bytes, 619854 expected)) at link www.tivodart.narod.ru/imperium.jpg (from www.tivodart.narod.ru/imperium.html)
+16:04:02	Warning: 	Retry after error -4 (Incorrect length (573920 Bytes, 794045 expected)) at link www.tivodart.narod.ru/impny.jpg (from www.tivodart.narod.ru/impny.html)
+16:04:12	Warning: 	Retry after error -4 (Incorrect length (424320 Bytes, 634715 expected)) at link www.tivodart.narod.ru/arkan21.jpg (from www.tivodart.narod.ru/arkan21.html)
+16:04:23	Warning: 	file not stored in cache due to bogus state (broken size, expected 937631 got 806480): www.tivodart.narod.ru/stella.jpg
+16:04:23	Warning: 	Retry after error -4 (Incorrect length (466480 Bytes, 714303 expected)) at link www.tivodart.narod.ru/meka.jpg (from www.tivodart.narod.ru/meka.html)
+16:04:38	Warning: 	Retry after error -4 (Incorrect length (425680 Bytes, 933419 expected)) at link www.tivodart.narod.ru/odnavera.jpg (from www.tivodart.narod.ru/odnavera.html)
+16:04:41	Warning: 	Retry after error -4 (Incorrect length (425680 Bytes, 459773 expected)) at link www.tivodart.narod.ru/upechey.jpg (from www.tivodart.narod.ru/upechey.html)
+16:04:47	Warning: 	Retry after error -4 (Incorrect length (357680 Bytes, 763840 expected)) at link www.tivodart.narod.ru/sevveter.jpg (from www.tivodart.narod.ru/sevveter.html)
+16:04:47	Warning: 	Retry after error -4 (Incorrect length (427040 Bytes, 848555 expected)) at link www.tivodart.narod.ru/rasvet.jpg (from www.tivodart.narod.ru/rasvet.html)
+16:04:48	Warning: 	Retry after error -4 (Incorrect length (442000 Bytes, 810888 expected)) at link www.tivodart.narod.ru/mleko.jpg (from www.tivodart.narod.ru/mleko.html)
+16:05:03	Warning: 	Retry after error -4 (Incorrect length (424320 Bytes, 757227 expected)) at link www.tivodart.narod.ru/konevskaya.jpg (from www.tivodart.narod.ru/konevskaya.html)
+16:05:48	Warning: 	Retry after error -4 (Incorrect length (391680 Bytes, 774661 expected)) at link www.tivodart.narod.ru/pantanas.jpg (from www.tivodart.narod.ru/pantanas.html)
+16:05:53	Warning: 	file not stored in cache due to bogus state (broken size, expected 933419 got 898960): www.tivodart.narod.ru/odnavera.jpg
+16:05:53	Warning: 	Retry after error -4 (Incorrect length (567120 Bytes, 677086 expected)) at link www.tivodart.narod.ru/makar.jpg (from www.tivodart.narod.ru/makar.html)
+16:05:55	Warning: 	Retry after error -4 (Incorrect length (391680 Bytes, 1030440 expected)) at link www.tivodart.narod.ru/rublev.jpg (from www.tivodart.narod.ru/rublev.html)
+16:05:57	Warning: 	Retry after error -4 (Incorrect length (508640 Bytes, 651837 expected)) at link www.tivodart.narod.ru/ksenia.jpg (from www.tivodart.narod.ru/ksenia.html)
+16:06:12	Warning: 	Retry after error -4 (Incorrect length (401120 Bytes, 746378 expected)) at link www.tivodart.narod.ru/terezka.jpg (from www.tivodart.narod.ru/terezka.html)
+16:06:21	Warning: 	Retry after error -4 (Incorrect length (424320 Bytes, 708639 expected)) at link www.tivodart.narod.ru/hust.jpg (from www.tivodart.narod.ru/hust.html)
+16:06:50	Warning: 	Retry after error -4 (Incorrect length (435200 Bytes, 478138 expected)) at link www.tivodart.narod.ru/sviattih.jpg (from www.tivodart.narod.ru/sviattih.html)
+16:06:58	Warning: 	Retry after error -4 (Incorrect length (440640 Bytes, 583493 expected)) at link www.tivodart.narod.ru/litvechnatro.jpg (from www.tivodart.narod.ru/litvechnatro.html)
+16:07:07	Warning: 	Retry after error -4 (Incorrect length (486880 Bytes, 667076 expected)) at link www.tivodart.narod.ru/stejka.jpg (from www.tivodart.narod.ru/stejka.html)
+16:07:08	Warning: 	Retry after error -4 (Incorrect length (427040 Bytes, 641495 expected)) at link www.tivodart.narod.ru/straji.jpg (from www.tivodart.narod.ru/straji.html)
+16:07:14	Warning: 	file not stored in cache due to bogus state (broken size, expected 1030440 got 884000): www.tivodart.narod.ru/rublev.jpg
+16:07:14	Warning: 	Retry after error -4 (Incorrect length (349520 Bytes, 753887 expected)) at link www.tivodart.narod.ru/kutok.jpg (from www.tivodart.narod.ru/kutok.html)
+16:07:20	Warning: 	Retry after error -4 (Incorrect length (471920 Bytes, 613250 expected)) at link www.tivodart.narod.ru/vecherie.jpg (from www.tivodart.narod.ru/vecherie.html)
+16:07:37	Warning: 	Retry after error -4 (Incorrect length (437920 Bytes, 661218 expected)) at link www.tivodart.narod.ru/dotik.jpg (from www.tivodart.narod.ru/dotik.html)
+16:07:43	Warning: 	Retry after error -4 (Incorrect length (435200 Bytes, 782998 expected)) at link www.tivodart.narod.ru/pokaleto.jpg (from www.tivodart.narod.ru/pokaleto.html)
+16:07:44	Warning: 	Retry after error -4 (Incorrect length (326400 Bytes, 680220 expected)) at link www.tivodart.narod.ru/morozranok.jpg (from www.tivodart.narod.ru/morozranok.html)
+16:08:13	Warning: 	Retry after error -4 (Incorrect length (550800 Bytes, 848974 expected)) at link www.tivodart.narod.ru/yablunka.jpg (from www.tivodart.narod.ru/yablunka.html)
+16:08:19	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link www.pautina.net/images/pautina88.gif (from www.tivodart.narod.ru/)
+16:08:19	Warning: 	Retry after error -4 (Incorrect length (806480 Bytes, 937631 expected)) at link www.tivodart.narod.ru/stella.jpg (from www.tivodart.narod.ru/stella.html)
+16:08:39	Warning: 	Retry after error -4 (Incorrect length (898960 Bytes, 933419 expected)) at link www.tivodart.narod.ru/odnavera.jpg (from www.tivodart.narod.ru/odnavera.html)
+16:08:41	Warning: 	Retry after error -5 (Error attempting to solve status 206 (partial file)) at link www.tivodart.narod.ru/sevveter.jpg (from www.tivodart.narod.ru/sevveter.html)
+16:08:41	Warning: 	Retry after error -4 (Incorrect length (884000 Bytes, 1030440 expected)) at link www.tivodart.narod.ru/rublev.jpg (from www.tivodart.narod.ru/rublev.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 29 minutes 47 seconds : 616 links scanned, 573 files written (42437890 bytes overall) [42273256 bytes received at 23655 bytes/sec], 595822 bytes transferred using HTTP compression in 144 files, ratio 42%, 4.3 requests per connection
+(3 errors, 75 warnings, 0 messages)
